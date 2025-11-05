@@ -1,0 +1,8 @@
+tekst = "Python jest super"
+
+print(tekst[0])
+print(tekst[len(tekst)-1])
+print(tekst[0:2])
+print(tekst[1:3])
+print(tekst[10:(len(tekst)-1)])
+print(tekst[1:])
